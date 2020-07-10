@@ -2,7 +2,7 @@
     "id": "15539b04-8034-40ac-a81b-c45dbded9d05",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_DiscordWbehooksDEMO",
+    "name": "obj_DiscordWebhooksDEMO",
     "eventList": [
         {
             "id": "94cc39ea-ab45-40c1-9b29-5590a57d8682",
