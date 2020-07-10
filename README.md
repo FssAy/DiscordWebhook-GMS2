@@ -6,7 +6,7 @@ Build on IDE v2.2.5.481 <br>
 
 This asset was made in mind of simpler executing of Discord webhooks and it is script-based only. <br>
 It is holding all webhook data in the global map data structure named *discord_webhooks*. <br>
-There is also an example of usage as an object in group *Demo* named *obj_DiscordWbehooksDEMO*. <br>
+There is also an example of usage as an object in group *Demo* named *obj_DiscordWebhooksDEMO*. <br>
 <br>
 
 ### Importing
